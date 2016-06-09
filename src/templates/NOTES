@@ -1,0 +1,19 @@
+// OSI LAYERS
+ * Physical: (hardware)
+ *      - electrical ex: coax cables
+ *      - fiber optics
+ *      - wireless
+ *
+ * Internet: (packets)
+ *      - IPv4
+ *      - IPv6
+ *
+ * Transport: (reliability)
+ *      - UDP
+ *      - TCP
+ *
+ * Application: (end users)
+ *      - HTTP
+ *      - SSL
+ *      - ASCII
+ *      - UTF-8
