@@ -9,10 +9,11 @@ public class Message {
     String author;
     String text;
 
-    public Message(int id, int replyId, String text, String author) {
+    public Message(int id, int replyId, String author, String text) {
         this.id = id;
         this.replyId = replyId;
-        this.text = text;
         this.author = author;
+        this.text = text;
+
     }
 }
